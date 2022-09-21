@@ -1,2 +1,2 @@
-# java-script-saat-uygulamas-
+# java-script-saat-uygulaması-
 js101
